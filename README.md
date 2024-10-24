@@ -10,10 +10,10 @@ This project is a **Google Gemini Clone** built using **Vite** and **React.js**.
 - **Google Gemini API Integration**: Seamlessly integrates AI to handle prompts and generate outputs.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
-## 🚀 Demo
+##  Demo
 
 Check out the live version of this project:
-[Live Demo](#)  
+[Live Demo](https://gemini-clone-shahdin.netlify.app/)  
 Source Code: [GitHub Repository](https://github.com/yourusername/gemini-clone)
 
 ## 📦 Installation
