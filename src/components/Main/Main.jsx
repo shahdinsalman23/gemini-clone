@@ -10,7 +10,7 @@ function Main() {
   return (
     <div className='main'>
         <div className="nav">
-            <p>Gemini</p>
+            <p><img src={assets.gemini_icon} alt="" /> Gemini</p>
             <img src={assets.user_icon} alt="" />
         </div>
         <div className="main-container">

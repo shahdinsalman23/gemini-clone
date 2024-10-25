@@ -14,12 +14,18 @@
     color: #585858;
 }
 
+.nav p {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
 .main .nav img{
     width: 40px;
     border-radius: 50%;
 }
 
-.main-container{
+.main-container {
     max-width: 900px;
     margin: auto;
 }
@@ -179,6 +185,16 @@
     line-height: 1.8; 
 }
 
+
+@media (max-width:786px){
+    .main .greet {
+        margin: 30px 0px;
+    }
+    .main-container {
+        margin: 0px 0px 40px 0px;
+    }
+}
+
 @media (max-width:600px){
     .main-bottom input{
         flex: none;
@@ -193,4 +209,8 @@
     .search-box div{
         gap: 5px;
     }
+    .main-container {
+        margin: 30px auto;
+    }
+
 }
